@@ -1,4 +1,3 @@
-import React from 'react';
 import FriendLayout from './layouts/FriendLayout';
 
 const Friend = () => (
